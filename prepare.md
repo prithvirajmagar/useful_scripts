@@ -1,0 +1,1 @@
+Linux Advanced Commands for Day-to-Day Activities for DevOps Engineers       https://freedium.cfd/https://medium.com/devsecops-community/linux-advanced-commands-for-day-to-day-activities-for-devops-engineers-e336154c5457
