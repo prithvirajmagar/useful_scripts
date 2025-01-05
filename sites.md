@@ -1,6 +1,6 @@
 freedium free medium
 30 Real-Time Shell-Scripts Usecases With Example Codes--  https://medium.com/@devopsshack/30-real-time-shell-scripts-usecases-with-example-codes-8c778368ba2d
-email setup  --------echo "Alert: Disk space usage on /dev/sda1 is at ${disk_usage}%." | mail -s "Disk Space Alert" user@example.com
+email setup  --------echo "Alert: Disk space usage on /dev/sda1 is at ${disk_usage}%." | mail -s "Disk Space Alert" user@example.com /n
   git branching --   https://medium.com/@bibhup_mishra/git-3-branch-strategy-05de521677f7
 
 Python Scripts To Automate Your Daily Tasks--   https://medium.com/@haroldfinch01/top-25-python-scripts-to-automate-your-daily-tasks-817330847aa1
