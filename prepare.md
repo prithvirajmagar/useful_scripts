@@ -2,3 +2,5 @@ Linux Advanced Commands for Day-to-Day Activities for DevOps Engineers       htt
 
 15 Python Automation Scripts to Enhance Productivity for DevOps Engineers (From Beginner to --   https://freedium.cfd/https://medium.com/@osomudeyazudonu/15-python-automation-scripts-to-enhance-productivity-for-devops-engineers-from-beginner-to-593479c69054
 Linux Commands for DevOps Engineers:       https://freedium.cfd/https://medium.com/devpulse/linux-commands-for-devops-engineers-simplified-84a4e9f9517d
+5 Crucial DevOps Interview Questions Every Engineer Should Master for Kubernetes Success 
+   https://freedium.cfd/https://medium.com/devpulse/5-crucial-devops-interview-questions-every-engineer-should-master-for-kubernetes-success-3f4dca34d060
