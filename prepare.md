@@ -4,3 +4,4 @@ Linux Advanced Commands for Day-to-Day Activities for DevOps Engineers       htt
 Linux Commands for DevOps Engineers:       https://freedium.cfd/https://medium.com/devpulse/linux-commands-for-devops-engineers-simplified-84a4e9f9517d
 5 Crucial DevOps Interview Questions Every Engineer Should Master for Kubernetes Success 
    https://freedium.cfd/https://medium.com/devpulse/5-crucial-devops-interview-questions-every-engineer-should-master-for-kubernetes-success-3f4dca34d060
+I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever   https://freedium.cfd/https://medium.com/stackademic/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0
