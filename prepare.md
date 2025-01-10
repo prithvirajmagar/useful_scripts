@@ -5,3 +5,5 @@ Linux Commands for DevOps Engineers:       https://freedium.cfd/https://medium.c
 5 Crucial DevOps Interview Questions Every Engineer Should Master for Kubernetes Success 
    https://freedium.cfd/https://medium.com/devpulse/5-crucial-devops-interview-questions-every-engineer-should-master-for-kubernetes-success-3f4dca34d060
 I Stopped Using Kubernetes. Our DevOps Team Is Happier Than Ever   https://freedium.cfd/https://medium.com/stackademic/i-stopped-using-kubernetes-our-devops-team-is-happier-than-ever-a5519f916ec0
+Boost Your DevOps Efficiency: Must-Know Shell Scripts   https://jay75chauhan.medium.com/boost-your-devops-efficiency-must-know-shell-scripts-b44ad1336c51
+18 Insanely Useful Python Automation Scripts I Use Everyday   https://freedium.cfd/https://medium.com/pythoneers/18-insanely-useful-python-automation-scripts-i-use-everyday-b3aeb7671ce9
